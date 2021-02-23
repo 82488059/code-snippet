@@ -1,11 +1,11 @@
-lua实现的循环背景 `GameBackGround.md` 
+`GameBackGround.md` lua实现的循环背景 
 
-战场人物管理demo `MapManager.md`
+`MapManager.md` 战场人物管理demo 
 
-Lua单例 `Singleton.md`
+`Singleton.md` Lua单例 
 
-lua队列 `Queue.md`
+`Queue.md` lua队列 
 
-lua列表 `List.md`
+`List.md` lua列表 
 
-quick加载骨骼动画 `quick加载骨骼动画.md`
+`quick加载骨骼动画.md` quick加载骨骼动画 
